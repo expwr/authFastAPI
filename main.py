@@ -14,7 +14,7 @@ db = {
         "username": "noah",
         "full_name": "Noah Diana",
         "email": "noah@gmail.com",
-        "hashed_password": "$2b$12$HxWHkvMuL7WrZad6lcCfluNFj1/Zp63lvP5aUrKlSTYtoFzPXHOtu",
+        "hashed_password": "$2b$12$bU26V2qrbeX5YRpyX.idveYDtqk5IVznQ7AYaFbJWhhVCf9VJ.p/6",
         "disabled": False
     }
 }
