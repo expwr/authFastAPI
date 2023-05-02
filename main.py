@@ -10,7 +10,7 @@ ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
 db = {
-    "tim": {
+    "noah": {
         "username": "noah",
         "full_name": "Noah Diana",
         "email": "noah@gmail.com",
